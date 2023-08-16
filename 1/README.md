@@ -1,6 +1,6 @@
 # Description
 
-The program asks user to input 2 numbers (A and B) and outputs the multiplication (A / B) and division results (A / B)
+The program asks user to input 2 numbers (A and B) and outputs the multiplication (A * B) and division results (A / B)
 
 # Makefile targets
 

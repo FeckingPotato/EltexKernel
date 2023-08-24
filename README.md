@@ -4,3 +4,4 @@
 2. /proc
 3. /sys
 4. Keyboard LEDs
+5. Chardev

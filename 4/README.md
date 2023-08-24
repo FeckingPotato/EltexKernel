@@ -2,7 +2,7 @@
 
 Makes keyboard LEDs blink
 
-Creates `/sys/kbleds/control` file which allows controlling the blinking LEDs with a binary mask 1(001) 2(010) 7(111)
+Creates `/sys/kbleds/control` file which allows controlling the blinking LEDs with a binary mask (e.g. 1(001) 2(010) 7(111))
 
 # Makefile targets
 
